@@ -2,6 +2,7 @@
 Learning materials for a course on functional programming using Haskell
 
 ## Slides
+0. [Introduction to course](lectures/0_intro_to_fun.pdf)
 0. [Basic syntax and function calls](lectures/1_basics_and_functions.pdf)
 
 ## References
