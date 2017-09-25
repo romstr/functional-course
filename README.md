@@ -7,6 +7,9 @@ Learning materials for a course on functional programming using Haskell
 0. [Working with lists](lectures/2_working_with_lists.pdf)
 0. [Recursion](lectures/3_recursion.pdf)
 
+## Tasks
+1. [Calculator](tasks/task-1.md)
+
 ## References
 * [Online Haskell interpreter](https://repl.it/languages/haskell)
 * [Quick Haskell Syntax](https://prajitr.github.io/quick-haskell-syntax/)
