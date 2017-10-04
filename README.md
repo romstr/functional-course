@@ -6,7 +6,7 @@ Learning materials for a course on functional programming using Haskell
 0. [Basic syntax and function calls](lectures/1_basics_and_functions.pdf)
 0. [Working with lists](lectures/2_working_with_lists.pdf)
 0. [Recursion](lectures/3_recursion.pdf)
-0. [Higher order functions](lectures/4_higher_order_functions.pdf))
+0. [Higher order functions](lectures/4_higher_order_functions.pdf)
 
 ## Tasks
 1. [Calculator](tasks/task-1.md)
