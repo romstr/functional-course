@@ -12,6 +12,7 @@ Learning materials for a course on functional programming using Haskell
 
 ## Tasks
 1. [Calculator](tasks/task-1.md)
+1. [TODO list](tasks/task-2.md)
 
 ## References
 * [Online Haskell interpreter](https://repl.it/languages/haskell)
