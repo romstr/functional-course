@@ -1,5 +1,6 @@
-# Task 1
+# Task 1 
 #### Calculator
+## Deadline 14 of November 
 
 Create a function calculator that would take a string and return a result or 0.
 ```
