@@ -9,6 +9,7 @@ Learning materials for a course on functional programming using Haskell
 0. [Higher order functions](lectures/4_higher_order_functions.pdf)
 0. [Own data types](lectures/5_making_own_data_types.pdf)
 0. [Input/Output](lectures/6_input_output.pdf)
+0. Functors, Applicatives, Monads [read here...](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 
 ## Tasks
 1. [Calculator](tasks/task-1.md)
