@@ -10,6 +10,7 @@ Learning materials for a course on functional programming using Haskell
 0. [Own data types](lectures/5_making_own_data_types.pdf)
 0. [Input/Output](lectures/6_input_output.pdf)
 0. Functors, Applicatives, Monads [read here...](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+0. [Functional programming in other languages](lectures/8_other_languages.pdf)
 
 ## Tasks
 1. [Calculator](tasks/task-1.md)
